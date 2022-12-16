@@ -7,9 +7,6 @@
 В Weather_app есть поиск по названию города и геолокации. Также UI изменяется в зависимости от погодных условий.
 
 
+![Screen-Recording-_16 12 2022-20-51-41_](https://user-images.githubusercontent.com/99863500/208134166-a5eb6e05-13c4-4436-8e00-f226a973835d.gif)
 
-![Screen Recording (16 12 2022 20-51-41)](https://user-images.githubusercontent.com/99863500/208132918-9cbad14d-496b-444d-9490-94624e580d16.GIF)
-
-
-https://user-images.githubusercontent.com/99863500/208133349-76efe965-4624-4ab3-81c0-311efebbaae6.mov
 
